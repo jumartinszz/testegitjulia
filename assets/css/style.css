@@ -17,6 +17,7 @@ form {
 
 #border {
     border-style: groove;
+    margin-bottom: 10px;
 }
 
 #border:focus {
