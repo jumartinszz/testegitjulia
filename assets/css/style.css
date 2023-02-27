@@ -4,3 +4,13 @@ form {
     margin: auto;
     width: 50%;
 }
+
+#enviar {
+    background-color: blue;
+    width: 30%;
+}
+
+#enviar:hover {
+    background-color: chartreuse;
+    width: 20%;
+}
