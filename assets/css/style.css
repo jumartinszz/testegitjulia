@@ -18,3 +18,8 @@ form {
 #border {
     border-style: groove;
 }
+
+#border:focus {
+    border-radius: 15px;
+    outline: 0;
+}
